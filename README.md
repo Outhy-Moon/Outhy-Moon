@@ -8,8 +8,14 @@
 # 🌱 📚 Estudando  Html | Css | Java Script
 
 # Projects
+- <a href="https://github.com/Outhy-Moon/Front-end-Developer-Basic">Page Bios</a>
+- <a href="#">Super calculator</a> - upcoming
+- <a href="#">Calculator Windows 10</a> - upcoming
+- <a href="#">Landing Page</a> - upcoming
+- <a href="#">Fish in the aquarium</a> - upcoming
+- <a href="#">Clone Page</a> - upcoming
+- <a href="#">Login Page</a> - upcoming
 
-- Page Bios
-- <a href="https://github.com/Outhy-Moon/Front-end-Developer-Basic"></a>
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wemersonfernandes008/)
